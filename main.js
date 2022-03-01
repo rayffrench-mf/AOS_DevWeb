@@ -1,6 +1,7 @@
 load.initialize("Initialize", async function () {
 });
 //
+//
 
 load.action("Action", async function () {
     load.WebRequest.defaults.returnBody = false;
