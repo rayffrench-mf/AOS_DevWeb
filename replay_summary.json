@@ -1,0 +1,42 @@
+{
+	"startTime": "2021-10-28T03:22:48Z",
+	"endTime": "2021-10-28T03:23:02Z",
+	"elapsedTime": "00:00:14",
+	"status": "Passed",
+	"iterations": 1,
+	"statistics": {
+		"New Connections": 7,
+		"Total Hits": 31,
+		"Total BytesSent": 15650,
+		"Total Throughput": 1197507
+	},
+	"transactions": [
+		{
+			"name": "AOS_landing_page",
+			"minDuration": 4943,
+			"avgDuration": 4943,
+			"maxDuration": 4943,
+			"90%": 4943,
+			"pass": 1,
+			"fail": 0
+		},
+		{
+			"name": "AOS_login",
+			"minDuration": 983,
+			"avgDuration": 983,
+			"maxDuration": 983,
+			"90%": 983,
+			"pass": 1,
+			"fail": 0
+		},
+		{
+			"name": "AOS_logout",
+			"minDuration": 471,
+			"avgDuration": 471,
+			"maxDuration": 471,
+			"90%": 471,
+			"pass": 1,
+			"fail": 0
+		}
+	]
+}
